@@ -1,6 +1,9 @@
 # My HTML Project:
 
 A multi-page website project built with HTML and CSS.
+# Screenshot:
+
+![My HTML Project](website-screenshot.png)
 
 # Features:
 
